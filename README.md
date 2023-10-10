@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ceenobi
-- 👀 I’m interested in frontend web development
+- 👋 Hi, I’m Charles @ceenobi
+- 👀 Focused on web development
 - 🌱 I’m currently learning typescript, and react testing
 - 💞️ I’m looking to collaborate on projects, gain more experience working on them
 - 📫 How to reach me - cobimbachu@gmail.com
