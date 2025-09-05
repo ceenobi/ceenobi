@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charles @ceenobi
 - 👀 Focused on web development
-- 🌱 I’m currently learning react testing, and react native
+- 🌱 I’m currently learning ai tooling, integrationg with modern web app
 - 💞️ I’m looking to collaborate on projects, gain more experience working on them
 - 📫 How to reach me - cobimbachu@gmail.com
 
